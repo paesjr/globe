@@ -2,8 +2,6 @@
 
 An interactive 3D globe visualization built with Next.js, React Three Fiber, and Three.js. Based on the GitHub globe style from [Aceternity UI](https://ui.aceternity.com/components/github-globe).
 
-![Interactive Globe](https://ui.aceternity.com/images/components/github-globe.webp)
-
 ## Features
 
 ✨ **Visual Features:**
